@@ -1,0 +1,110 @@
+commit a5699ffa99a29059772b7db0d8de1c5c6942325e
+Author: DanielMS-AI <dmoncad4@calstatela.edu>
+Date:   Fri Feb 7 11:38:54 2025 -0800
+
+    Daniel updated some things
+    
+    I added my descriptions
+
+commit 939e65ef36955e32371845fabfd68fc0dec8d4b7
+Author: danielleG332 <dgarci332@calstatela.edu>
+Date:   Fri Feb 7 11:25:59 2025 -0800
+
+    Update index.html(format)
+    
+    fixed format
+
+commit 0127147d3f856b83e752ebe762eb3c5355170a05
+Author: danielleG332 <dgarci332@calstatela.edu>
+Date:   Fri Feb 7 11:19:39 2025 -0800
+
+    Update index.html to include partner info
+    
+    update html to include my info
+
+commit ae6a37124f8515949a0d161611274a8f2e8e7ed8
+Merge: f37cdce 51b68ff
+Author: danielleG332 <dgarci332@calstatela.edu>
+Date:   Fri Feb 7 11:15:39 2025 -0800
+
+    Merge pull request #1 from danielleG332/feature-about-me
+    
+    Feature about me merge
+
+commit 51b68ffd5637af2fc8dcbfc7c2cb54113295dc91
+Merge: a9614b1 f37cdce
+Author: danielleG332 <dgarci332@calstatela.edu>
+Date:   Fri Feb 7 11:14:58 2025 -0800
+
+    Merge branch 'main' into feature-about-me
+
+commit a9614b16b319147be383c0138eeac3721e438223
+Author: danielleG332 <dgarci332@calstatela.edu>
+Date:   Fri Feb 7 11:07:50 2025 -0800
+
+    updated html with info
+    
+    put in my name, favorite food, hobbie and fun fact
+
+commit 4806d85ff2863b6505b48f76a191ff5960597fac
+Merge: f37cdce ebf7a27
+Author: DanielMS-AI <dmoncad4@calstatela.edu>
+Date:   Fri Feb 7 10:54:27 2025 -0800
+
+    Merge pull request #1 from DanielMS-AI/feature-about-me
+    
+    Feature about me
+
+commit ebf7a278c000dc5cd376d97491c0b3fe42499b65
+Merge: e046c45 f37cdce
+Author: DanielMS-AI <dmoncad4@calstatela.edu>
+Date:   Fri Feb 7 10:51:35 2025 -0800
+
+    Merge branch 'main' into feature-about-me
+
+commit e046c45cb3ece8604b828acf9c0aaf074813447e
+Author: DanielMS-AI <dmoncad4@calstatela.edu>
+Date:   Fri Feb 7 10:35:19 2025 -0800
+
+    first updates
+    
+    I added descriptions about me to this file
+
+commit 36c86bac45225f2b53c6591729ec566171f0536d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:24:59 2025 -0800
+
+    Setup index for groupmate
+
+commit f37cdce66bf3ee5c7835db43eb69434768c73a72
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:05:30 2025 -0800
+
+    Replicate assignment-1 index
+
+commit 2221a861bb75db029ce6f7e543f814dcb97ff69c
+Merge: 7790057 bad1d21
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Feb 5 22:03:43 2025 -0800
+
+    Merge pull request #1 from JValenzuela1/feature-about-me
+    
+    Feature about me
+
+commit bad1d210982c13dbedbb9b72b3fd92018d5d575d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:42:13 2025 -0800
+
+     Please enter the commit message for your changes. Lines starting
+
+commit 740ccd1c7908abf4acc3e9edc878b083730fc3ea
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:36:03 2025 -0800
+
+    Adding an index template for students
+
+commit 779005737de5c4a1d440e0674921a65a60db04ac
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:15:47 2025 -0800
+
+    first commit
